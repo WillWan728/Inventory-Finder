@@ -120,7 +120,7 @@ def re_stock():
 def search_shoe():
     """
         This function will search for a shoe from the list
-        using the shoe code and return this object so that it will be printed.
+        using the shoe code and return this object so that it will be printed.g
     """
     search_input = input("Please enter the code for the shoe.").strip()
     for shoe in shoe_list:
