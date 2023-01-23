@@ -19,7 +19,7 @@ The main purpose of this program is to allow the user to find specific informati
 
 ![image](https://user-images.githubusercontent.com/122927183/214085702-bc392784-dc94-4037-a386-067dee2ed5b3.png)
 
-* If the user inputs "va" it will print out the list of all the shoes, there location, country, code and price. 
+If the user inputs "va" it will print out the list of all the shoes, there location, country, code and price. 
 ![image](https://user-images.githubusercontent.com/122927183/214086638-29510de0-cd08-4f2f-8fe5-3fd6de1fbddb.png)
 
 * If the user inputs "rs" the program will print the lowest quantity shoe and ask the user how much they would like to restock this shoe by. 
