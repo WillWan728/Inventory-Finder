@@ -1,7 +1,7 @@
 # Inventory finder 
 
 # Description
-Python program that reads from text file to read specific information that the user needs. 
+Python program that reads from text file to read specific information that the user needs. # Explain what your attributes do. 
 
 # Contents:
 Created a class named Shoes,
@@ -22,4 +22,4 @@ Value of each shoe,
 Highest quantity of stock in the file. 
 
 # Credits 
-Me :)
+William Wan 
