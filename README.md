@@ -23,6 +23,8 @@ If the user inputs "va" it will print out the list of all the shoes, there locat
 ![image](https://user-images.githubusercontent.com/122927183/214086638-29510de0-cd08-4f2f-8fe5-3fd6de1fbddb.png)
 
 * If the user inputs "rs" the program will print the lowest quantity shoe and ask the user how much they would like to restock this shoe by. 
+
+
 ![image](https://user-images.githubusercontent.com/122927183/214088039-ab2b2fa1-790e-4afc-be5f-db131bfb47a9.png)
 
 * If the user inputs "ss" the program will ask the user for the code of the shoe. It will then print out all of the information regarding this specific shoe. 
