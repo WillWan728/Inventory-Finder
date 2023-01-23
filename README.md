@@ -29,9 +29,18 @@ If the user inputs "va" it will print out the list of all the shoes, there locat
 
 * If the user inputs "ss" the program will ask the user for the code of the shoe. It will then print out all of the information regarding this specific shoe. 
 
+![image](https://user-images.githubusercontent.com/122927183/214088566-fb37088c-2cef-4600-ba5d-03655af64521.png)
+
+
 * If the user inputs "vi" it will print out the whole list of shoes alongside the value of the product.
 
+![image](https://user-images.githubusercontent.com/122927183/214088828-d69b1efe-d221-43d5-952f-58f6dfaa5cb4.png)
+ 
+
 * If the user inputs "hi" it will print the highest quantity stocked shoe and ask the user to bring this product out for sale. 
+
+![image](https://user-images.githubusercontent.com/122927183/214088931-8f0a7055-3a29-4333-9276-3eb976b99202.png)
+
 
 
 # Credits 
