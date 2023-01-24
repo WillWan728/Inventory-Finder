@@ -10,6 +10,8 @@ Python program that reads from a text file inventory.txt which finds key informa
 
 # Prerequisites
 Before you continue, ensure you have met the following requirements:
+* Navigate to the dircetory that contains the python file
+* On windows open up command prompt (cd) and then type python main.py
 * Installed the latest version of python
 
 # How to use this program. 
